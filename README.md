@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anuj Jamdar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center"></h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuj-j96" alt="anuj-j96" /></a> </p>
 
